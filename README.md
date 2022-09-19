@@ -1,18 +1,24 @@
-# About:
-Hannah Hollenback is a computer science major on her second to last semester.
+<body>
+      <div id="header">
+        <nav>
+          <ul>
+            <li class="fork"><a href="https://github.com/pages-themes/midnight">View On GitHub</a></li>
+            
+              <li class="downloads"><a href="https://github.com/pages-themes/midnight/zipball/master">ZIP</a></li>
+              <li class="downloads"><a href="https://github.com/pages-themes/midnight/tarball/master">TAR</a></li>
+              <li class="title">DOWNLOADS</li>
+            
+          </ul>
+        </nav>
+      </div><!-- end header -->
 
-layout: default
-title: About me
-nav_order: 5
-has_children: true
+    <div class="wrapper">
 
-layout: default
-title: history
-nav_order: 3
-parent: About me
-
-layout: default
-title: Code
-nav_order: 2
-parent: history
-grand_parent: About me
+      <section>
+        <div id="title">
+          <h1>Midnight theme</h1>
+          <p>Midnight is a theme for GitHub Pages.</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/pages-themes">pages-themes</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+        </div>
