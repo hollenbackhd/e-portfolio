@@ -16,9 +16,7 @@
 
       <section>
         <div id="title">
-          <h1>Midnight theme</h1>
-          <p>Midnight is a theme for GitHub Pages.</p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="https://github.com/pages-themes">pages-themes</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
-        </div>
+        <h2 id="header-2">About:</h2>
+          <p>Hannah Hollenback back will be graduating in the Spring of 2023 with a bachelors in computer science.</p>
+          </div>
+          </body>
