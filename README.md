@@ -36,7 +36,13 @@
 
             
             <h2 id="Experience">Experience:</h2>
-            <p> This is where the experience will go
+            <p><ul>Programming Languages
+            <li>Python</li> 
+            <li>Java</li> 
+            <li>C/C++</li>
+            <li>Vega/Vega-lite</li> 
+            <li>Kotlin</li>
+            </ul>
             <br><a href="#Top">Top</a></p>
 
             
