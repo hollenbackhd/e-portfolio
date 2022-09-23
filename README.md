@@ -63,6 +63,12 @@
             <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/affirmations.png?raw=true" alt="Affirmations" width="150" height="300"><br>
             
             <a href="https://hollenbackhd.github.io">Data Visulizations - Vega/Vegalite
+            <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/Gas.png?raw=true" alt="Gas" width="300" height="150">
+            <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/Map.png?raw=true" alt="Map" width="300" height="150">
+            <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/Network.png?raw=true" alt="Network" width="300" height="150">
+            <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/Polis.png?raw=true" alt="Polis" width="300" height="150">
+                  
+
             <br><a href="#Top">Top</a>
 
             
