@@ -17,18 +17,20 @@
             <p>Hannah Hollenback will be graduating in the Spring of 2023 with a bachelors in computer science.
             She is a Montana native that has lived in Western Montana her whole life
             <br><a href="#Top">Top</a></p>
+               <br><br>
 
             <h2 id="Contact">Contact:</h2>
             <p> email: hollenbXXXXXX@gmail.com
                   <br>phone: (406)XXX-XXXX
                   <br>How to reach me: Please email any inquiries.
-                  
             <br><a href="#Top">Top</a></p>
+               <br><br>
 
             
             <h2 id="Experience">Experience:</h2>
             <p>Hannah has worked as a data analyst for First group - the largest provider of school bus services in North America - for 3 years.
             <br><a href="#Top">Top</a></p>
+               <br><br>
           
           <h2 id="Skills">Skills:</h2>
           <p>Programming Languages<ul>
@@ -39,6 +41,7 @@
             <li>Kotlin</li>
             </ul>
             <br><a href="#Top">Top</a></p>
+             <br><br>
 
             
             <h2 id="Projects">Projects:</h2>
@@ -57,6 +60,7 @@
                   
 
             <br><a href="#Top">Top</a>
+                     <br><br>
 
             
             <h2 id="Resume">Resume:</h2>
