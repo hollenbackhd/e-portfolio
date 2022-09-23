@@ -41,10 +41,10 @@
 
             
             <h2 id="Projects">Projects:</h2>
-            <p><a href="https://github.com/hollenbackhd/Tip-Time.git">Tip time - Android Studio</p>
-            <p><a href="https://github.com/hollenbackhd">Affirmations - Android Studio</p>
+            <p><a href="https://github.com/hollenbackhd/Tip-Time.git">Tip time - Android Studio<br>
+            <p><a href="https://github.com/hollenbackhd">Affirmations - Android Studio<br>
             <p><a href="https://hollenbackhd.github.io">Data Visulizations - Vegalite
-            <br><a href="#Top">Top</a></p>
+            <br><a href="#Top">Top</a>
 
             
             <h2 id="Resume">Resume:</h2>
