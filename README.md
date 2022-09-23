@@ -41,11 +41,7 @@
             <h2 id="header-2"><a href="#Resume">Resume</a></h2>
             <p> This is where the resume will go <br></p>
 
-            <a href="#About">Take me to the opening paragraph.</a>
-            <a href="#Contact">Take me to the opening paragraph.</a>
-            <a href="#Experience">Take me to the opening paragraph.</a>
-            <a href="#Projects">Take me to the opening paragraph.</a>
-            <a href="#Resume">Take me to the opening paragraph.</a>
+        
             
             <a href="#opening">Take me to the opening paragraph.</a>
             
