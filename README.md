@@ -20,6 +20,7 @@
               <p><a href="#About">About</a><br>
               <a href="#Contact">Contact</a><br>
               <a href="#Experience">Experience</a><br>
+              <a href="#Skills">Skills</a><br>
               <a href="#Projects">Projects</a><br>
               <a href="#Resume">Resume</a></p>
               
@@ -27,7 +28,7 @@
             
             <h2 id="About">About:</h2>
             <p>Hannah Hollenback will be graduating in the Spring of 2023 with a bachelors in computer science.
-            She is currently working as a data anaylst at First Student - the largest provider of school bus services in North America.
+            She is a Montana native that has lived in Western Montana her whole life
             <br><a href="#Top">Top</a></p>
 
             <h2 id="Contact">Contact:</h2>
@@ -39,7 +40,11 @@
 
             
             <h2 id="Experience">Experience:</h2>
-            <p>Programming Languages<ul>
+            <p>Hannah has worked as a data analyst for First group - the largest provider of school bus services in North America - for 3 years.
+            <br><a href="#Top">Top</a></p>
+          
+          <h2 id="Skills">Skills:</h2>
+          <p>Programming Languages<ul>
             <li>Python</li> 
             <li>Java</li> 
             <li>C/C++</li>
@@ -52,7 +57,7 @@
             <h2 id="Projects">Projects:</h2>
             <p><a href="https://github.com/hollenbackhd/Tip-Time.git">Tip time - Android Studio<br>
             <a href="https://github.com/hollenbackhd">Affirmations - Android Studio<br>
-            <a href="https://hollenbackhd.github.io">Data Visulizations - Vegalite
+            <a href="https://hollenbackhd.github.io">Data Visulizations - Vega/Vegalite
             <br><a href="#Top">Top</a>
 
             
