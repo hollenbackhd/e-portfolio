@@ -27,8 +27,8 @@
             
             <h2 id="About">About:</h2>
             <p>Hannah Hollenback will be graduating in the Spring of 2023 with a bachelors in computer science.
-            She is currently working as a data anaylst at First Student - the largest provider of school bus services in North America.</p>
-            <a href="#Top">Top</a><br>
+            She is currently working as a data anaylst at First Student - the largest provider of school bus services in North America.
+            <br><a href="#Top">Top</a></p>
 
             <h2 id="Contact">Contact:</h2>
             <p> This is where the contact stuff will go 
