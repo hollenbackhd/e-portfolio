@@ -3,7 +3,7 @@
     <div class="wrapper">
       <section>
         <div id="title">
-              <h2 id ="Top"><br><br>Navigationsss:</h2>
+              <h2 id ="Top"><br><br><br>Navigation:</h2>
               <p><a href="#About">About</a><br>
               <a href="#Contact">Contact</a><br>
               <a href="#Experience">Experience</a><br>
@@ -14,13 +14,13 @@
           </div>
        
             
-            <h2 id="About"><br><br>About:</h2>
+            <h2 id="About"><br><br><br>About:</h2>
             <p>Hannah Hollenback will be graduating in the Spring of 2023 with a bachelors in computer science.
             She is a Montana native that has lived in Western Montana her whole life
             <br><a href="#Top">Top</a></p>
                <br><br>
 
-            <h2 id="Contact">Contact:</h2>
+            <h2 id="Contact"><br><br><br>Contact:</h2>
             <p> email: hollenbXXXXXX@gmail.com
                   <br>phone: (406)XXX-XXXX
                   <br>How to reach me: Please email any inquiries.
@@ -28,12 +28,12 @@
                <br><br>
 
             
-            <h2 id="Experience">Experience:</h2>
+            <h2 id="Experience"><br><br><br>Experience:</h2>
             <p>Hannah has worked as a data analyst for First group - the largest provider of school bus services in North America - for 3 years.
             <br><a href="#Top">Top</a></p>
                <br><br>
           
-          <h2 id="Skills">Skills:</h2>
+          <h2 id="Skills"><br><br><br>Skills:</h2>
           <p>Programming Languages<ul>
             <li>Python</li> 
             <li>Java</li> 
@@ -45,7 +45,7 @@
              <br><br>
 
             
-            <h2 id="Projects">Projects:</h2>
+            <h2 id="Projects"><br><br><br>Projects:</h2>
             <p><a href="https://github.com/hollenbackhd/Tip-Time.git">Tip time - Android Studio<br>
             <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/tip.png?raw=true" alt="Tip" width="150" height="300"><br>
 
@@ -64,7 +64,7 @@
                      <br><br>
 
             
-            <h2 id="Resume">Resume:</h2>
+            <h2 id="Resume"><br><br><br>Resume:</h2>
             <p> This is where the resume will go
             <br><a href="#Top">Top</a></p>
 
