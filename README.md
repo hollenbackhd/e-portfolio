@@ -43,10 +43,10 @@
             
             
             <br>add<br>the<br>breaks<br>here<br>haha<br>here<br>we<br>go<br>with<br>this<br>shiz<br>heck<br>this<br>is<br>taking<br>too<br>long<br><br><br><br><br><br><br><br>
+            <p id="Contact">Here is an introductory paragraph with the selector 'opening' attached to it.</p>
+
 
         
-            
-            <a href="#opening">Take me to the opening paragraph.</a>
-            
+                   
             
           </body>
