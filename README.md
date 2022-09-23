@@ -32,22 +32,22 @@
 
             <h2 id="Contact">Contact:</h2>
             <p> This is where the contact stuff will go 
-                  <a href="#Top">Top</a><br></p>
+            <br><a href="#Top">Top</a></p>
 
             
             <h2 id="Experience">Experience:</h2>
-            <p> This is where the experience will go</p>
-                        <a href="#Top">Top</a><br>
+            <p> This is where the experience will go
+            <br><a href="#Top">Top</a></p>
 
             
             <h2 id="Projects">Projects:</h2>
-            <p> This is where the projects will go</p>
-                        <a href="#Top">Top</a><br>
+            <p> This is where the projects will go
+            <br><a href="#Top">Top</a></p>
 
             
             <h2 id="Resume">Resume:</h2>
-            <p> This is where the resume will go</p>
-                        <a href="#Top">Top</a><br>
+            <p> This is where the resume will go
+            <br><a href="#Top">Top</a></p>
 
             
 
@@ -56,4 +56,3 @@
         
                    
             
-          </body>
