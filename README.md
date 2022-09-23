@@ -1,5 +1,6 @@
 <body>
-            <nav>
+          <div id="header">
+          <nav>
           <ul>
             <li class="fork"><a href="https://github.com/pages-themes/midnight">View On GitHub</a></li>
             
@@ -8,13 +9,16 @@
               <li class="title">DOWNLOADS</li>
             
           </ul>
-            </nav>
+          </nav>
+          </div><!-- end header -->
+
 
     <div class="wrapper">
 
       <section>
+                  <h2 id ="Top"></h2>
         <div id="title">
-              <h2 id="Top">Navigation hello:</h2>
+              <h2>Navigation hello:</h2>
               <p><a href="#About">About</a><br>
               <a href="#Contact">Contact</a><br>
               <a href="#Experience">Experience</a><br>
