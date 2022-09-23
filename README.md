@@ -40,6 +40,8 @@
             <p> This is where the projects will go <br></p>
             <h2 id="header-2"><a href="Resume">Resume</a></h2>
             <p> This is where the resume will go <br></p>
+            
+            <p id="About">Here is an introductory paragraph with the selector 'opening' attached to it.</p>
 
         
             
