@@ -30,15 +30,15 @@
             <p id="opening">Hyperlinks are utilized by a web browser to move from one page to another...</p>
             <a href="#opening">Take me to the opening paragraph.</a>
             
-            <h2 id="header-2"><a href="#About">About:</a></h2>
+            <h2 id="header-2"><a href="About">About:</a></h2>
             <p> This is where the about stuff will go <br></p>
-            <h2 id="header-2"><a href="#Contact">Contact:</a></h2>
+            <h2 id="header-2"><a href="Contact">Contact:</a></h2>
             <p> This is where the contact stuff will go <br></p>
-            <h2 id="header-2"><a href="#Experience">Experience</a></h2>
+            <h2 id="header-2"><a href="Experience">Experience</a></h2>
             <p> This is where the experience will go <br></p>
-            <h2 id="header-2"><a href="#Projects">Projects</a></h2>
+            <h2 id="header-2"><a href="Projects">Projects</a></h2>
             <p> This is where the projects will go <br></p>
-            <h2 id="header-2"><a href="#Resume">Resume</a></h2>
+            <h2 id="header-2"><a href="Resume">Resume</a></h2>
             <p> This is where the resume will go <br></p>
 
         
