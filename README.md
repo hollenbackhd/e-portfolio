@@ -12,8 +12,9 @@
               <a href="#Resume">Resume</a></p>
               
           </div>
+       
             
-            <h2 id="About">About:</h2>
+            <h2 id="About"><br><br>About:</h2>
             <p>Hannah Hollenback will be graduating in the Spring of 2023 with a bachelors in computer science.
             She is a Montana native that has lived in Western Montana her whole life
             <br><a href="#Top">Top</a></p>
