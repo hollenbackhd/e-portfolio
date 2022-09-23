@@ -59,7 +59,7 @@
             <h3 id="small-image">Tip</h3>
             <p><img src="https://github.com/hollenbackhd/e-portfolio/blob/main/tip.png" alt="Tipsnip" /></p>
                   <h2>HTML Image</h2>
-                  <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/tip.png" alt="Girl in a jacket" width="500" height="600">
+                  <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/affirmations.png?raw=true" alt="Girl in a jacket" width="500" height="600">
 
 
             <a href="https://github.com/hollenbackhd">Affirmations - Android Studio<br>
