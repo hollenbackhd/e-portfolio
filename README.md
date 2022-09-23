@@ -17,12 +17,12 @@
       <section>
         <div id="title">
               <h2 id="header-2">Navigation hello:</h2>
-              <p>About<br>
-              Contact<br>
-              Experience<br>
-              Projects<br>
-              Experience<br>
-              Resume</p>
+              <p><a href="About">About</a><br>
+              <a href="Contact">Contact</a><br>
+              <a href="Experience">Experience</a><br>
+              <a href="Projects">Projects</a><br>
+              <a href="Experience">Experience</a><br>
+              <a href="Resume">Resume</a></p>
               
         <h2 id="header-2">About:</h2>
           <p>Hannah Hollenback back will be graduating in the Spring of 2023 with a bachelors in computer science.</p>
