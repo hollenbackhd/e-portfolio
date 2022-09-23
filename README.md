@@ -1,16 +1,5 @@
 <body>
-          <div id="header">
-          <nav>
-          <ul>
-            <li class="fork"><a href="https://github.com/pages-themes/midnight">View On GitHub</a></li>
-            
-              <li class="downloads"><a href="https://github.com/pages-themes/midnight/zipball/master">ZIP</a></li>
-              <li class="downloads"><a href="https://github.com/pages-themes/midnight/tarball/master">TAR</a></li>
-              <li class="title">DOWNLOADS</li>
-            
-          </ul>
-          </nav>
-          </div><!-- end header -->
+         
 
 
     <div class="wrapper">
