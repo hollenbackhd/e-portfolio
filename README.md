@@ -31,8 +31,8 @@
             <a href="#Top">Top</a><br>
 
             <h2 id="Contact">Contact:</h2>
-            <p> This is where the contact stuff will go </p>
-                        <a href="#Top">Top</a><br>
+            <p> This is where the contact stuff will go 
+                  <a href="#Top">Top</a><br></p>
 
             
             <h2 id="Experience">Experience:</h2>
