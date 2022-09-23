@@ -1,5 +1,4 @@
 <body>
-      <div id="header">
             <nav>
           <ul>
             <li class="fork"><a href="https://github.com/pages-themes/midnight">View On GitHub</a></li>
@@ -10,7 +9,6 @@
             
           </ul>
             </nav>
-      </div><!-- end header -->
 
     <div class="wrapper">
 
