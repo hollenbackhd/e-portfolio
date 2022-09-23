@@ -1,13 +1,9 @@
 <body>
          
-
-
     <div class="wrapper">
-
       <section>
-                  <h2 id ="Top"></h2>
         <div id="title">
-              <h2>Navigation hello:</h2>
+              <h2 id ="Top">Navigation:</h2>
               <p><a href="#About">About</a><br>
               <a href="#Contact">Contact</a><br>
               <a href="#Experience">Experience</a><br>
