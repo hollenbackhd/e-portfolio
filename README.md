@@ -31,7 +31,10 @@
             <br><a href="#Top">Top</a></p>
 
             <h2 id="Contact">Contact:</h2>
-            <p> This is where the contact stuff will go 
+            <p> email: hollenbXXXXXX@gmail.com
+                  <br>phone: (406)XXX-XXXX
+                  <br>How to reach me: Please email any inquiries.
+                  
             <br><a href="#Top">Top</a></p>
 
             
