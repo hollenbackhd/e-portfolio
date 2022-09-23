@@ -41,7 +41,7 @@
 
             
             <h2 id="Projects">Projects:</h2>
-            <p> This is where the projects will go
+            <p><a href="https://github.com/hollenbackhd/Tip-Time.git">Tip time for Android app
             <br><a href="#Top">Top</a></p>
 
             
