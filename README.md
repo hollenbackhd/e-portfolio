@@ -62,7 +62,7 @@
             <a href="https://github.com/hollenbackhd">Affirmations - Android Studio<br>
             <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/affirmations.png?raw=true" alt="Affirmations" width="150" height="300"><br>
             
-            <a href="https://hollenbackhd.github.io">Data Visulizations - Vega/Vegalite
+            <a href="https://hollenbackhd.github.io">Data Visulizations - Vega/Vegalite<br>
             <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/Gas.png?raw=true" alt="Gas" width="300" height="150">
             <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/Map.png?raw=true" alt="Map" width="300" height="150">
             <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/Network.png?raw=true" alt="Network" width="300" height="150">
