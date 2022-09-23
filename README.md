@@ -17,11 +17,11 @@
       <section>
         <div id="title">
               <h2 id="header-2">Navigation hello:</h2>
-              <p><a href="About">About</a><br>
-              <a href="Contact">Contact</a><br>
-              <a href="Experience">Experience</a><br>
-              <a href="Projects">Projects</a><br>
-              <a href="Resume">Resume</a></p>
+              <p><a href="#About">About</a><br>
+              <a href="#Contact">Contact</a><br>
+              <a href="#Experience">Experience</a><br>
+              <a href="#Projects">Projects</a><br>
+              <a href="#Resume">Resume</a></p>
               
               <p id="opening">Hyperlinks are utilized by a web browser to move from one page to another...</p>
         <h2 id="header-2">About:</h2>
