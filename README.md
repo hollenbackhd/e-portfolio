@@ -16,7 +16,7 @@
 
       <section>
         <div id="title">
-              <h2 id="header-2">Navigation":</h2>
+              <h2 id="header-2">Navigation hello:</h2>
               <p>About<br>
               Contact<br>
               Experience<br>
