@@ -30,7 +30,7 @@
             <p id="opening">Hyperlinks are utilized by a web browser to move from one page to another...</p>
             <a href="#opening">Take me to the opening paragraph.</a>
             
-            <h2 id="header-2"><a href="About">About:</a></h2>
+            <p id="About">About:</p>
             <p> This is where the about stuff will go <br></p>
             <h2 id="header-2"><a href="Contact">Contact:</a></h2>
             <p> This is where the contact stuff will go <br></p>
@@ -41,7 +41,6 @@
             <h2 id="header-2"><a href="Resume">Resume</a></h2>
             <p> This is where the resume will go <br></p>
             
-            <p id="About">Here is an introductory paragraph with the selector 'opening' attached to it.</p>
             
             <br>add<br>the<br>breaks<br>here<br>haha<br>here<br>we<br>go<br>with<br>this<br>shiz<br>heck<br>this<br>is<br>taking<br>too<br>long<br><br><br><br><br><br><br><br>
 
