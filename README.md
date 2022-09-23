@@ -36,7 +36,7 @@
 
             
             <h2 id="Experience">Experience:</h2>
-            <p><ul>Programming Languages
+            <p>Programming Languages<ul>
             <li>Python</li> 
             <li>Java</li> 
             <li>C/C++</li>
