@@ -42,8 +42,8 @@
             
             <h2 id="Projects">Projects:</h2>
             <p><a href="https://github.com/hollenbackhd/Tip-Time.git">Tip time - Android Studio<br>
-            <p><a href="https://github.com/hollenbackhd">Affirmations - Android Studio<br>
-            <p><a href="https://hollenbackhd.github.io">Data Visulizations - Vegalite
+            <a href="https://github.com/hollenbackhd">Affirmations - Android Studio<br>
+            <a href="https://hollenbackhd.github.io">Data Visulizations - Vegalite
             <br><a href="#Top">Top</a>
 
             
