@@ -23,6 +23,7 @@
               <a href="Projects">Projects</a><br>
               <a href="Resume">Resume</a></p>
               
+              <p id="opening">Hyperlinks are utilized by a web browser to move from one page to another...</p>
         <h2 id="header-2">About:</h2>
           <p>Hannah Hollenback back will be graduating in the Spring of 2023 with a bachelors in computer science.</p>
           </div>
@@ -45,6 +46,8 @@
             <a href="#Experience">Take me to the opening paragraph.</a>
             <a href="#Projects">Take me to the opening paragraph.</a>
             <a href="#Resume">Take me to the opening paragraph.</a>
+            
+            <a href="#opening">Take me to the opening paragraph.</a>
             
             
           </body>
