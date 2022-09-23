@@ -26,20 +26,21 @@
           </div>
             
             <h2 id="About">About:</h2>
-            <p>Hannah Hollenback back will be graduating in the Spring of 2023 with a bachelors in computer science.</p>
+            <p>Hannah Hollenback back will be graduating in the Spring of 2023 with a bachelors in computer science.</p><br>
 
-            <h2 id="header-2"><a href="Contact">Contact:</a></h2>
-            <p> This is where the contact stuff will go <br></p>
-            <h2 id="header-2"><a href="Experience">Experience</a></h2>
-            <p> This is where the experience will go <br></p>
-            <h2 id="header-2"><a href="Projects">Projects</a></h2>
-            <p> This is where the projects will go <br></p>
-            <h2 id="header-2"><a href="Resume">Resume</a></h2>
-            <p> This is where the resume will go <br></p>
+            <h2 id="Contact">Contact:</h2>
+            <p> This is where the contact stuff will go </p><br>
             
+            <h2 id="Experience">Experience:</h2>
+            <p> This is where the experience will go</p><br>
             
-            <br>add<br>the<br>breaks<br>here<br>haha<br>here<br>we<br>go<br>with<br>this<br>shiz<br>heck<br>this<br>is<br>taking<br>too<br>long<br><br><br><br><br><br><br><br>
-            <p id="Contact">Here is an introductory paragraph with the selector 'opening' attached to it.</p>
+            <h2 id="Projects">Projects:</h2>
+            <p> This is where the projects will go</p><br>
+            
+            <h2 id="Resume">Resume:</h2>
+            <p> This is where the resume will go</p><br>
+            
+
 
 
         
