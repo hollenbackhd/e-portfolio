@@ -42,6 +42,8 @@
             <p> This is where the resume will go <br></p>
             
             <p id="About">Here is an introductory paragraph with the selector 'opening' attached to it.</p>
+            
+            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
         
             
