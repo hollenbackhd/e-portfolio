@@ -2,7 +2,7 @@
          
     <div class="wrapper">
     
-    <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/border2.png?raw=true" alt="border" width="600" height="200">
+    <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/border2.png?raw=true" alt="border" width="600" height="100">
       <p id="Top"></p>
       <section>
         <div id="title">
