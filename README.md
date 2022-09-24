@@ -1,10 +1,11 @@
 <body>
          
     <div class="wrapper">
-    <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/border_noback.png?raw=true" alt="border" width="600" height="200">
+    <h2 id="Top"></h2>
+    <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/newborder_noback.png?raw=true" alt="border" width="600" height="200">
       <section>
         <div id="title">
-              <h2 id ="Top"><br><br><br>Navigation:</h2>
+              <h2>Navigation:</h2>
               <p><a href="#About">About</a><br>
               <a href="#Contact">Contact</a><br>
               <a href="#Experience">Experience</a><br>
