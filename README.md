@@ -1,20 +1,18 @@
 <body>
-         
-    <div class="wrapper">
-    
-      <section>
-              <div id="title">
-              <p id="Top"><br></p>
+           <div class="wrapper">
 
-              <h2>Navigation:</h2>
+      <section>
+        <div id="title">
+              <h2 id="Top">Navigation hello:</h2>
               <p><a href="#About">About</a><br>
               <a href="#Contact">Contact</a><br>
               <a href="#Experience">Experience</a><br>
-              <a href="#Skills">Skills</a><br>
               <a href="#Projects">Projects</a><br>
-              <a href="#Resume">Resume</a>
-                 <p id="About"></p>
-               </div>
+              <a href="#Resume">Resume</a></p>
+              
+          </div>
+         
+
              <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/border7.png?raw=true" alt="border" width="600" height="200">
 
 
