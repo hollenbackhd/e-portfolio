@@ -1,7 +1,7 @@
 <body>
          
     <div class="wrapper">
-    <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/border.png?raw=true" alt="border" width="600" height="200">
+    <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/border_noback.png?raw=true" alt="border" width="600" height="200">
       <section>
         <div id="title">
               <h2 id ="Top"><br><br><br>Navigation:</h2>
