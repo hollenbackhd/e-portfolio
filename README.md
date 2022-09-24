@@ -68,6 +68,9 @@
             <h2 id="Resume"><br><br><br>Resume:</h2>
             <p> This is where the resume will go
             <br><a href="#Top">Top</a></p>
+                     
+             </div>
+                     
 
             
 
