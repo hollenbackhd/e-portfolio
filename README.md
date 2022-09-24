@@ -3,8 +3,8 @@
     <div class="wrapper">
     
       <section>
-               <div id="title">
-               <p id="Top"><br></p>
+              <div id="title">
+              <p id="Top"><br></p>
 
               <h2>Navigation:</h2>
               <p><a href="#About">About</a><br>
@@ -69,7 +69,6 @@
             <p> This is where the resume will go
             <br><a href="#Top">Top</a></p>
                      
-             </div>
                      
 
             
