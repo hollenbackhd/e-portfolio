@@ -17,12 +17,12 @@
               
           </div>
          
+             <a id="About"></a>
 
              <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/border7.png?raw=true" alt="border" width="600" height="200">
 
 
        
-            <a id="About"></a>
             <h2>About:</h2>
             <p>Hannah Hollenback will be graduating in the Spring of 2023 with a bachelors in computer science.
             She is a Montana native that has lived in Western Montana her whole life 
