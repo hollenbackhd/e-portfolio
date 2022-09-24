@@ -11,7 +11,9 @@
               <a href="#Experience">Experience</a><br>
               <a href="#Skills">Skills</a><br>
               <a href="#Projects">Projects</a><br>
-              <a href="#Resume">Resume</a></p>
+              <a href="#Resume">Resume</a>
+              <id="About">
+              </p>
               
           </div>
          
