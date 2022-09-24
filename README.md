@@ -4,6 +4,7 @@
     
       <p id="Top"><br></p>
       <section>
+               <div id="title">
               <h2>Navigation:</h2>
               <p><a href="#About">About</a><br>
               <a href="#Contact">Contact</a><br>
@@ -11,7 +12,8 @@
               <a href="#Skills">Skills</a><br>
               <a href="#Projects">Projects</a><br>
               <a href="#Resume">Resume</a>
-                 <p id="About"></p>           
+                 <p id="About"></p>  
+               </div>
              <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/border7.png?raw=true" alt="border" width="600" height="200">
 
 
