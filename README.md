@@ -22,7 +22,7 @@
             
             <h2>About:</h2>
             <p>Hannah Hollenback will be graduating in the Spring of 2023 with a bachelors in computer science.
-            She is a Montana native that has lived in Western Montana her whole life test
+            She is a Montana native that has lived in Western Montana her whole life 
             <br><a href="#Top">Top</a></p>
 
             <h2 id="Contact"><br><br><br>Contact:</h2>
