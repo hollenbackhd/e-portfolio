@@ -1,13 +1,15 @@
 <body>
            <div class="wrapper">
+           <p id="Top"></p>
+
 
       <section>
         <div id="title">
-              <p id="Top"></p>
               <h2>Navigation:</h2>
               <p><a href="#About">About</a><br>
               <a href="#Contact">Contact</a><br>
               <a href="#Experience">Experience</a><br>
+              <a href="#Skills">Skills</a><br>
               <a href="#Projects">Projects</a><br>
               <a href="#Resume">Resume</a></p>
               
