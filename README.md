@@ -12,7 +12,7 @@
               <a href="#Skills">Skills</a><br>
               <a href="#Projects">Projects</a><br>
               <a href="#Resume">Resume</a>
-              <id="About">
+              <a id="About"></a>
               </p>
               
           </div>
