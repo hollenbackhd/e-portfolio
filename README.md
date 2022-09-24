@@ -2,7 +2,6 @@
          
     <div class="wrapper">
     
-    <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/border7.png?raw=true" alt="border" width="600" height="200">
       <p id="Top"></p>
       <section>
         <div id="title">
@@ -15,9 +14,10 @@
               <a href="#Resume">Resume</a>
                  <p id="About"></p>
                  </p>
-                 
               
           </div>
+                 <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/border7.png?raw=true" alt="border" width="600" height="200">
+
        
             
             <h2>About:</h2>
