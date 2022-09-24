@@ -1,8 +1,9 @@
 <body>
          
     <div class="wrapper">
-    <h2 id="Top"></h2>
-    <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/newborder_noback.png?raw=true" alt="border" width="600" height="200">
+    
+    <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/newborder_noback.png?raw=true" alt="border" width="600" height="100">
+      <p id="Top"></p>
       <section>
         <div id="title">
               <h2>Navigation:</h2>
