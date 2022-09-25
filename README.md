@@ -55,7 +55,7 @@
             <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/tip.png?raw=true" alt="Tip" width="150" height="300"><br>
 
 
-            <a href="https://github.com/hollenbackhd">Affirmations - Android Studio<br>
+            <a href="https://github.com/hollenbackhd/affirmations">Affirmations - Android Studio<br>
             <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/affirmations.png?raw=true" alt="Affirmations" width="150" height="300"><br>
             
             <a href="https://hollenbackhd.github.io">Data Visulizations - Vega/Vegalite<br>
