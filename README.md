@@ -68,6 +68,7 @@
             <a href="https://github.com/hollenbackhd/ownApp">My Own Project - Android Studio<br>
             <a href="https://github.com/hollenbackhd/LunchTray">Lunch Tray - Android Studio<br>
             <img src="https://github.com/hollenbackhd/e-portfolio/blob/main/Images/LunchTray.png?raw=true" alt="LunchTray" width="150" height="300"><br>
+            <a href="https://github.com/hollenbackhd/pokedex2">Midterm Project - Android Studio<br>
                   
 
             <br><a href="#Top">Top</a>
